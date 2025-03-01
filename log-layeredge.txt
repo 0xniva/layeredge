@@ -338,3 +338,6 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [19:31:17 | 01-03-2025] 🚨 Failed to start node for 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD: [object Object]
+[23:18:30 | 01-03-2025] Wallet Address: 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD
+[23:18:30 | 01-03-2025] Node Points: 306332
+[23:18:30 | 01-03-2025] Last Claim Point: 01/03/2025 12:30:31
