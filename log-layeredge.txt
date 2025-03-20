@@ -646,3 +646,32 @@
 [08:18:41 | 20-03-2025] Wallet Address: 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD
 [08:18:41 | 20-03-2025] Node Points: 718929
 [08:18:41 | 20-03-2025] Last Claim Point: 19/03/2025 04:20:13
+[11:20:24 | 20-03-2025] Wallet Address: 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD
+[11:20:24 | 20-03-2025] Node Points: 718929
+[11:20:24 | 20-03-2025] Last Claim Point: 19/03/2025 04:20:13
+[11:20:25 | 20-03-2025] 🚨 Failed to claim points for 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
+[11:20:26 | 20-03-2025] 🚨 Failed to start node for 0xeD7ef49f144B4A07Af0B3Fe1ef54b07c6409ecDD: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+
